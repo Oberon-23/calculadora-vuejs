@@ -38,8 +38,7 @@ O cálculo é feito automaticamente à medida que o usuário altera os valores d
 
 ## 🚀 Como visualizar
 
-Você pode acessar a calculadora online clicando [aqui](https://oberon-23.github.io/calculadora-vuejs/)  
-Ou clonar o repositório:
+Clonar o repositório:
 
 ```bash
 git clone https://github.com/Oberon-23/calculadora-vuejs.git
