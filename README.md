@@ -1,29 +1,70 @@
-# calculadora
+# 🧮 Calculadora com Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto desenvolvido como exercício prático no curso de Front-End da EBAC, com o objetivo de aplicar conceitos fundamentais do **Vue.js** em uma aplicação funcional.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📄 Descrição
 
-## Customize configuration
+Esta é uma **calculadora aritmética** desenvolvida com **Vue.js**, capaz de realizar as quatro operações básicas (adição, subtração, multiplicação e divisão).  
+O cálculo é feito automaticamente à medida que o usuário altera os valores dos campos, sem a necessidade de clicar em botões.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+## 💻 Tecnologias utilizadas
 
-```sh
-npm install
+- Vue.js (CDN)  
+- HTML5  
+- CSS3  
+
+---
+
+## 🧠 Funcionalidades
+
+- Campo para inserção de dois números  
+- Seleção de operação aritmética (soma, subtração, multiplicação e divisão)  
+- Resultado exibido automaticamente conforme os dados são alterados  
+- Interface limpa e responsiva  
+
+---
+
+## 📱 Responsivo para:
+
+- ✅ Computadores  
+- ✅ Tablets  
+- ✅ Smartphones
+
+---
+
+## 🚀 Como visualizar
+
+Você pode acessar a calculadora online clicando [aqui](https://oberon-23.github.io/calculadora-vuejs/)  
+Ou clonar o repositório:
+
+```bash
+git clone https://github.com/Oberon-23/calculadora-vuejs.git
+Abra o arquivo index.html em seu navegador.
 ```
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## 📚 Aprendizados
+Criação de instâncias Vue
 
-### Compile and Minify for Production
+Utilização de diretivas (v-model, v-if, v-bind)
 
-```sh
-npm run build
-```
+Reatividade automática do Vue.js
+
+Organização de lógica dentro do data e methods
+
+Separação de responsabilidades entre HTML, CSS e JS
+
+---
+
+## 🙋‍♂️ Contato
+GitHub: @Oberon-23
+
+---
+
+Projeto desenvolvido com fins educacionais para a EBAC.
+
